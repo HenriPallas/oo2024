@@ -1,0 +1,22 @@
+Kordamisküsimused õppeaines Objektorienteeritud programmeerimine kevadsemestril 2024
+
+- Typescript/Java kasutsvaldkonnad, käivitamise moodused
+- Typescripti/Java andmetüübid
+- Typescripti/Java massiivide/listide loomine ja kasutamine
+- Veaolukorrad ja nende haldamine
+
+- Objektorienteerituse head ning tülikad külje
+- Klassi kasutamine staatiliste funktsioonide kogumikuna (moodulina)
+- Andmeid sisaldava klassi eksemplari kasutamine Isikukoodi näitel
+- Andmete muutmist lubava klassi eksemplari kasutamine koordinaatidega kilpkonna näitel
+- Objektide massiivi loomine ja kasutamine
+- Staatilised ja isendimuutujad ning meetodid
+
+- Liideste kasutamine rakenduse kavandamise ja töö jagamise juures
+- Liideste kasutamine komponentide omavahel asendamiseks
+- Liideste kasutamine rakenduse eri otstarbega osade ühendamisel
+
+- Alamklassid, pärilus, abstraktsed klassid, näited
+
+- Automaattestid rakenduse kavandamise juures
+- Automaattestid koodi muutmise juures
