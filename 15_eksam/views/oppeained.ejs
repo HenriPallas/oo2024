@@ -1,0 +1,17 @@
+<!-- views/oppeained.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Õppeaine List</title>
+</head>
+<body>
+  <h1>Õppeaine List</h1>
+  <p><%= notice %></p>
+  <ul>
+    <% oppeaine.forEach(item => { %>
+      <li><%= item.Nimetus %></li>
+    <% }); %>
+  </ul>
+</body>
+</html>
